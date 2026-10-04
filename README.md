@@ -328,10 +328,8 @@ templates/voice.md                 your voice profile. Fill this in first.
 
 ## Credit
 
-Made by Jake Schincariol, [opusjake.ai](https://opusjake.ai).
+Made by Martín García, [soymartin.garcia](https://innovaescala.com).
 
-Sibling repo, same idea for a different platform:
-[linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill).
 
 ## License
 
